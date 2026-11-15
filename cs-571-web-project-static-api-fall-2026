@@ -1,0 +1,629 @@
+[
+  {
+    "restaurant_name": "The Old Fashioned",
+    "address": "23 N Pinckney St, Madison, WI 53703",
+    "phone": "(608) 310-4545",
+    "about": "Wisconsin tavern and supper-club tribute right by Capitol Square, with a wood-burning grill, local cheeses, nightly specials, and an extensive Wisconsin beer list. Serves breakfast, lunch, dinner, and weekend brunch.",
+    "cuisine": [
+      "American",
+      "Bar"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "https://theoldfashioned.com/food",
+    "schedule": [
+      "Sunday: Closed",
+      "Monday: 11:00 AM - 9:00 PM",
+      "Tuesday: 11:00 AM - 9:00 PM",
+      "Wednesday: 11:00 AM - 9:00 PM",
+      "Thursday: 11:00 AM - 9:00 PM",
+      "Friday: 11:00 AM - 10:00 PM",
+      "Saturday: 10:00 AM - 10:00 PM"
+    ],
+    "popular_items": [
+      "Cheese Curds",
+      "Friday Fish Fry",
+      "Bratwurst",
+      "Poutine",
+      "Burgers"
+    ]
+  },
+  {
+    "restaurant_name": "Naples 15",
+    "address": "15 N Butler St, Madison, WI 53703",
+    "phone": "(608) 250-6330",
+    "about": "Neapolitan-focused Italian restaurant and steakhouse near the Wisconsin State Capitol, led by Chef Salvatore Di Scala. Known for wood-fired pizza, house pasta, seafood, and a chef's tasting menu. Reservations recommended.",
+    "cuisine": [
+      "Italian",
+      "Steakhouse"
+    ],
+    "price": "$$$$",
+    "image": "",
+    "menu": "http://naples15.com/menu/",
+    "schedule": [
+      "Sunday: Closed",
+      "Monday: 5:00 PM - 10:00 PM",
+      "Tuesday: 5:00 PM - 10:00 PM",
+      "Wednesday: 5:00 PM - 10:00 PM",
+      "Thursday: 5:00 PM - 10:00 PM",
+      "Friday: 5:00 PM - 11:00 PM",
+      "Saturday: 5:00 PM - 11:00 PM"
+    ],
+    "popular_items": [
+      "Wood-Fired Pizza",
+      "Calamari",
+      "Chilean Sea Bass",
+      "Florentine Steak",
+      "Cannoli"
+    ]
+  },
+  {
+    "restaurant_name": "Graze Restaurant",
+    "address": "1 S Pinckney St, Madison, WI 53703",
+    "phone": "(608) 251-2700",
+    "about": "Farm-to-table gastropub on Capitol Square serving comfort food and cocktails, with a full bar and views of the Wisconsin State Capitol. Open for dinner and weekend brunch.",
+    "cuisine": [
+      "American",
+      "Bar",
+      "Gastropub"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "",
+    "schedule": [
+      "Sunday: 10:00 AM - 2:00 PM",
+      "Monday: Closed",
+      "Tuesday: 5:00 PM - 8:00 PM",
+      "Wednesday: 4:00 PM - 8:00 PM",
+      "Thursday: 4:00 PM - 8:00 PM",
+      "Friday: 4:00 PM - 8:45 PM",
+      "Saturday: 10:00 AM - 2:00 PM, 5:00 PM - 8:45 PM"
+    ],
+    "popular_items": [
+      "Fried Hook's Cheese Curds",
+      "Mac N' Cheese",
+      "Hand-Cut Fries",
+      "Graze Burger"
+    ]
+  },
+  {
+    "restaurant_name": "Sardine",
+    "address": "617 Williamson St, Madison, WI 53703",
+    "phone": "(608) 441-1600",
+    "about": "French-American bistro in a renovated warehouse on Williamson Street, with a full bar, seafood and bistro classics, and a lakeside patio with views of Lake Monona. Patio seating is first come, first served.",
+    "cuisine": [
+      "French",
+      "American",
+      "Seafood",
+      "Wine Bar"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "http://sardinemadison.com/dinner",
+    "schedule": [
+      "Sunday: 9:00 AM - 2:00 PM, 4:30 PM - 9:00 PM",
+      "Monday: 4:00 PM - 9:00 PM",
+      "Tuesday: 4:00 PM - 9:00 PM",
+      "Wednesday: 4:00 PM - 9:00 PM",
+      "Thursday: 4:00 PM - 9:00 PM",
+      "Friday: 4:00 PM - 10:00 PM",
+      "Saturday: 9:00 AM - 2:00 PM, 4:30 PM - 10:00 PM"
+    ],
+    "popular_items": [
+      "Duck Breast",
+      "Steak Frites",
+      "Moules Frites",
+      "Salmon with Lentils",
+      "French Onion Soup"
+    ]
+  },
+  {
+    "restaurant_name": "Dotty Dumpling's Dowry",
+    "address": "317 N Frances St, Madison, WI 53703",
+    "phone": "(608) 259-0000",
+    "about": "Downtown Madison institution for over 40 years, near the UW campus. Known for burgers, Friday fish fry, homemade soups and chili, and 24 Wisconsin craft beers on tap.",
+    "cuisine": [
+      "American",
+      "Bar",
+      "Pub"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "https://dottydumplingsdowry.com/menu",
+    "schedule": [
+      "Sunday: 11:00 AM - 4:00 PM",
+      "Monday: Closed",
+      "Tuesday: 11:00 AM - 10:00 PM",
+      "Wednesday: 11:00 AM - 10:00 PM",
+      "Thursday: 11:00 AM - 10:00 PM",
+      "Friday: 11:00 AM - 10:00 PM",
+      "Saturday: 11:00 AM - 10:00 PM"
+    ],
+    "popular_items": [
+      "Burgers",
+      "Cheese Curds",
+      "Chili",
+      "Jambalaya",
+      "Friday Fish Fry"
+    ]
+  },
+  {
+    "restaurant_name": "Tornado Steak House",
+    "address": "116 S Hamilton St, Madison, WI 53703",
+    "phone": "(608) 256-3570",
+    "about": "Classic supper club-style steakhouse near the Capitol Square with a full bar and private dining. Dinners come with bread and a choice of soup or salad, and the menu leans on steaks, seafood, and old-school starters.",
+    "cuisine": [
+      "American",
+      "Steakhouse"
+    ],
+    "price": "$$$$",
+    "image": "",
+    "menu": "",
+    "schedule": [
+      "Sunday: 5:00 PM - 10:00 PM",
+      "Monday: 5:00 PM - 10:00 PM",
+      "Tuesday: 5:00 PM - 10:00 PM",
+      "Wednesday: 5:00 PM - 10:00 PM, 10:00 PM - 11:45 PM",
+      "Thursday: 5:00 PM - 10:00 PM, 10:00 PM - 11:45 PM",
+      "Friday: 5:00 PM - 10:00 PM, 10:30 PM - 11:45 PM",
+      "Saturday: 5:00 PM - 10:00 PM, 10:30 PM - 11:45 PM"
+    ],
+    "popular_items": [
+      "Filet Au Poivre",
+      "Flank Steak",
+      "Wedge Salad",
+      "Escargot",
+      "French Onion Soup"
+    ]
+  },
+  {
+    "restaurant_name": "Red",
+    "address": "316 W Washington Ave Suite 100, Madison, WI 53703",
+    "phone": "(608) 294-1234",
+    "about": "Downtown sushi restaurant just off Capitol Square, with an open kitchen, creative signature rolls, sake and cocktails, and an outdoor courtyard. Vegetarian, vegan, and gluten-free options available.",
+    "cuisine": [
+      "Japanese",
+      "American",
+      "Seafood",
+      "Sushi"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "http://red-madison.com/menus/",
+    "schedule": [
+      "Sunday: 4:30 PM - 9:00 PM",
+      "Monday: 4:30 PM - 9:00 PM",
+      "Tuesday: 4:30 PM - 9:00 PM",
+      "Wednesday: 4:30 PM - 9:00 PM",
+      "Thursday: 4:30 PM - 9:00 PM",
+      "Friday: 4:30 PM - 10:00 PM",
+      "Saturday: 4:30 PM - 10:00 PM"
+    ],
+    "popular_items": [
+      "Tiger Roll",
+      "Spicy Tuna Crispy Rice",
+      "Tsunami Roll",
+      "Sticky Wagyu Beef Ribs",
+      "Brussels Sprout Salad"
+    ]
+  },
+  {
+    "restaurant_name": "Bassett Street Brunch Club",
+    "address": "444 W Johnson St, Madison, WI 53703",
+    "phone": "(608) 467-5051",
+    "about": "Playful takes on breakfast classics and comfort food, plus lots of donuts and creative cocktails, in a modern space attached to the Hampton Inn downtown near campus. Serves breakfast, lunch, and dinner; weekend mornings are busy.",
+    "cuisine": [
+      "American"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "https://brunchclubmadison.com/menus/",
+    "schedule": [],
+    "popular_items": [
+      "Donuts",
+      "Coconut Cream Pie French Toast",
+      "Eggs Benedict",
+      "Breakfast Potatoes",
+      "Sky High Reuben"
+    ]
+  },
+  {
+    "restaurant_name": "Bonfyre American Grille",
+    "address": "2601 W Beltline Hwy, Madison, WI 53713",
+    "phone": "(608) 273-3973",
+    "about": "Locally owned American contemporary restaurant on Madison's south side with a full bar, outdoor seating, and private dining. Menu leans on steaks, seafood, and Cajun-style dishes.",
+    "cuisine": [
+      "American",
+      "Contemporary"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "",
+    "schedule": [
+      "Sunday: Closed",
+      "Monday: 11:00 AM - 9:00 PM",
+      "Tuesday: 11:00 AM - 9:00 PM",
+      "Wednesday: 11:00 AM - 9:00 PM",
+      "Thursday: 11:00 AM - 9:00 PM",
+      "Friday: 11:00 AM - 10:00 PM",
+      "Saturday: 4:00 PM - 10:00 PM"
+    ],
+    "popular_items": [
+      "Pan Fried Walleye",
+      "Jambalaya",
+      "Mort's Pot Roast",
+      "Fried Cheese Curds",
+      "Crab Cakes"
+    ]
+  },
+  {
+    "restaurant_name": "The Great Dane Pub & Brewing Co.",
+    "address": "123 E Doty St, Madison, WI 53703",
+    "phone": "(608) 284-0000",
+    "about": "Downtown brewpub just off Capitol Square, around for 25+ years, with house-brewed beer, a large menu that includes vegetarian options and salads, a garden patio, and pub games.",
+    "cuisine": [
+      "American",
+      "Brew Pub",
+      "Bar",
+      "Pub"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "https://www.greatdanepub.com/menu/",
+    "schedule": [
+      "Sunday: 10:00 AM - 11:00 PM",
+      "Monday: 11:00 AM - 11:00 PM",
+      "Tuesday: 11:00 AM - 11:00 PM",
+      "Wednesday: 11:00 AM - 11:00 PM",
+      "Thursday: 11:00 AM - 11:00 PM",
+      "Friday: 11:00 AM - 1:00 AM",
+      "Saturday: 10:00 AM - 1:00 AM"
+    ],
+    "popular_items": [
+      "Burgers",
+      "Cheese Curds",
+      "Chimichurri Ranch Steak Salad",
+      "Wings",
+      "Poutine"
+    ]
+  },
+  {
+    "restaurant_name": "The Harvey House",
+    "address": "644 W Washington Ave, Madison, WI 53703",
+    "phone": "(608) 250-9578",
+    "about": "Supper-club-inspired fine dining in the old baggage house behind Madison's historic train depot, with dining rooms upstairs and downstairs plus two vintage train cars. Reservations (via Resy) open 30 days ahead and fill quickly.",
+    "cuisine": [
+      "American"
+    ],
+    "price": "$$$$",
+    "image": "",
+    "menu": "https://www.theharveyhouse.com/menu",
+    "schedule": [
+      "Sunday: 4:30 PM - 8:30 PM",
+      "Monday: 5:00 PM - 8:30 PM",
+      "Tuesday: 5:00 PM - 8:30 PM",
+      "Wednesday: 5:00 PM - 8:30 PM",
+      "Thursday: 5:00 PM - 8:30 PM",
+      "Friday: 4:30 PM - 9:30 PM",
+      "Saturday: 4:30 PM - 9:30 PM"
+    ],
+    "popular_items": [
+      "Lake Superior Walleye",
+      "Relish Tray",
+      "French Onion Soup",
+      "Slow Cooked Salmon",
+      "Duck for Two"
+    ]
+  },
+  {
+    "restaurant_name": "Butterbird",
+    "address": "1134 Regent St, Madison, WI 53715",
+    "phone": "N/A",
+    "about": "American restaurant in Madison, WI. Price range: $$ - $$$.",
+    "cuisine": [
+      "American"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "https://www.butterbird.com/menu",
+    "schedule": ["Sunday 11:00 AM - 8:00 PM", "Monday 11:00 AM - 9:00 PM", " Tuesday 11:00 AM - 9:00 PM", "Wednesday 11:00 AM - 9:00 PM", "Thursday 11:00 AM - 9:00 PM", "Friday 11:00 AM - 9:00 PM", "Saturday 11:00 AM - 9:00 PM"],
+    "popular_items": [
+      "Fried Chicken"
+    ]
+  },
+  {
+    "restaurant_name": "Cento",
+    "address": "122 W Mifflin St, Madison, WI 53703",
+    "phone": "608-284-9378",
+    "about": "Italian, Pizza restaurant in Madison, WI. Price range: $$$$.",
+    "cuisine": [
+      "Italian",
+      "Pizza"
+    ],
+    "price": "$$$$",
+    "image": "",
+    "menu": "https://www.centomadison.com/menus/",
+    "schedule": ["Sunday 10:00 AM - 2:00 PM 4:00 PM - 9:00 PM", "Monday 4:00 PM - 10:00 PM", "Tuesday 4:00 PM - 10:00 PM", "Wednesday 4:00 PM - 10:00 PM", "Thursday 4:00 PM - 10:00 PM", "Friday 4:00 PM - 10:00 PM", "Saturday 10:00 AM - 2:00 PM4:00 PM - 10:00 PM"],
+    "popular_items": [
+      "Fried Artichokes",
+      "Chicken Parmesan"
+    ]
+  },
+  {
+    "restaurant_name": "Mickies Dairy Bar",
+    "address": "1511 Monroe Street, Madison, WI 53711",
+    "phone": "608-256-9476",
+    "about": "American, Diner restaurant in Madison, WI. Price range: $.",
+    "cuisine": [
+      "American",
+      "Diner"
+    ],
+    "price": "$",
+    "image": "",
+    "menu": "https://mickiesdairybar.com/",
+    "schedule": ["Sunday 7:00 AM - 2:00 PM", "Monday Closed", "Tuesday Closed", "Wednesday 7:00 AM - 2:00 PM", "Thursday 7:00 AM - 2:00 PM", "Friday 6:00 AM - 2:00 PM", "Saturday 6:00 AM - 2:00 PM"],
+    "popular_items": [
+      "Scrambler"
+    ]
+  },
+  {
+    "restaurant_name": "The Coopers Tavern",
+    "address": "20 W Mifflin St, Madison, WI 53703",
+    "phone": "608-256-1600",
+    "about": "American, Bar restaurant in Madison, WI. Price range: $$ - $$$.",
+    "cuisine": [
+      "American",
+      "Bar"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "https://www.thecooperstavern.com/menus/",
+    "schedule": ["Sunday 9:00 AM - 11:00 PM", "Monday 11:00 AM - 11:00 PM", "Tuesday 11:00 AM - 11:00 PM", "Wednesday 11:00 AM - 11:00 PM", "Thursday 11:00 AM - 12:00 AM", "Friday 11:00 AM - 12:00 AM", "Saturday 9:00 AM - 12:00 AM"],
+    "popular_items": [
+      "Cheese Curds"
+    ]
+  },
+  {
+    "restaurant_name": "Monty's Blue Plate Diner",
+    "address": "2089 Atwood Ave, Madison, WI 53704",
+    "phone": "608-244-8505",
+    "about": "American, Diner restaurant in Madison, WI. Price range: $$ - $$$.",
+    "cuisine": [
+      "American",
+      "Diner"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "https://www.montysblueplatediner.com/menus/",
+    "schedule": ["Sunday 7:30 AM - 9:00 PM", "Monday 7:30 AM - 9:00 PM", "Tuesday 7:30 AM - 9:00 PM", "Wednesday 7:30 AM - 9:00 PM", "Thursday 7:30 AM - 9:00 PM", "Friday 7:30 AM - 9:00 PM", "Saturday 7:30 AM - 9:00 PM"],
+    "popular_items": [
+      "Vegan French Toast"
+    ]
+  },
+  {
+    "restaurant_name": "Tipsy Cow",
+    "address": "102 King St, Madison, WI 53703-3314",
+    "phone": "608-287-1455",
+    "about": "American, Bar restaurant in Madison, WI. Price range: $$ - $$$.",
+    "cuisine": [
+      "American",
+      "Bar"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "https://tipsycowmadison.com/food",
+    "schedule": ["Sunday Closed", "Monday 11:00 AM - 12:00 AM", "Tuesday 11:00 AM - 2:00 AM", "Wednesday 11:00 AM - 2:00 AM", "Thursday 11:00 AM - 2:00 AM", "Friday 11:00 AM - 2:30 AM", " Saturday 11:00 AM - 2:30 AM"],
+    "popular_items": ["Alligator Bites", "Local Lamb Burger"] 
+  },
+  {
+    "restaurant_name": "Lao Laan-Xang Restaurant",
+    "address": "1146 Williamson St, Madison, WI 53703-4841",
+    "phone": "608-819-0140",
+    "about": "Asian, Thai restaurant in Madison, WI. Price range: $$ - $$$.",
+    "cuisine": [
+      "Asian",
+      "Thai"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "https://www.laolaan-xang.com/menus",
+    "schedule": ["Sunday Closed", "Monday 5:00 PM - 9:00 PM", "Tuesday 11:30 AM - 2:30 PM 5:00 PM - 9:00 PM", "Wednesday 11:30 AM - 2:30 PM5:00 PM - 9:00 PM", "Thursday 11:30 AM - 2:30 PM 5:00 PM - 9:00 PM", "Friday  11:30 AM - 2:30 PM 5:00 PM - 10:00 PM", "Saturday 12:00 PM - 3:00 PM 5:00 PM - 10:00 PM"],
+    "popular_items": [
+      "Squash Curry"
+    ]
+  },
+  {
+    "restaurant_name": "Heritage Tavern",
+    "address": "131 E Mifflin St, Madison, WI 53703-2824",
+    "phone": "608-283-9500",
+    "about": "American restaurant in Madison, WI. Price range: $$$$.",
+    "cuisine": [
+      "American"
+    ],
+    "price": "$$$$",
+    "image": "",
+    "menu": "https://heritagetavern.com/menus",
+    "schedule": ["Sunday 9:00 AM - 2:00 PM", "Monday Closed", "Tuesday 4:00 PM - 9:00 PM", "Wednesday 4:00 PM - 9:00 PM", "Thursday 4:00 PM - 9:00 PM", "Friday 4:00 PM - 10:00 PM", "Saturday 9:00 AM - 2:00 PM 4:00 PM - 10:00 PM"],
+    "popular_items": ["Bouillabaisse", "Cowboy Cut T-Bone For Two"]
+  },
+  {
+    "restaurant_name": "L'Etoile Restaurant",
+    "address": "1 S Pinckney St, Madison, WI 53703",
+    "phone": "608-251-0500",
+    "about": "French, American restaurant in Madison, WI. Price range: $$$$.",
+    "cuisine": [
+      "French",
+      "American"
+    ],
+    "price": "$$$$",
+    "image": "",
+    "menu": "https://www.letoile-restaurant.com/menus",
+    "schedule": ["Sunday Closed", "Monday Closed", "Tuesday Closed", "Wednesday 5:00 PM - 8:15 PM", "Thursday 5:00 PM - 8:15 PM", "Friday 5:00 PM - 8:45 PM", "Saturday 5:00 PM - 8:45 PM"],
+    "popular_items": ["Hamachi Sashimi", "Wild Hen of the Woods Mushroom"]
+  },
+  {
+    "restaurant_name": "RP Adler's Pub & Grill",
+    "address": "8202 Watts Rd, Madison, WI 53719",
+    "phone": "608-828-1250",
+    "about": "American, Bar restaurant in Madison, WI. Price range: $$ - $$$.",
+    "cuisine": [
+      "American",
+      "Bar"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "https://www.rpadlers.com/menus/",
+    "schedule": ["Sunday Closed", "Monday Closed", "Tuesday 11:00 AM - 11:00 PM", "Wednesday 11:00 AM - 11:00 PM", "Thursday 11:00 AM - 11:00 PM", "Friday 11:00 AM - 11:00 PM", "Saturday 11:00 AM - 11:00 PM"],
+    "popular_items": [
+      "Burger",
+      "Fish Fry"
+    ]
+  },
+  {
+    "restaurant_name": "Nonno's Ristorante Italiano",
+    "address": "704 S Whitney Way, Madison, WI 53711-2506",
+    "phone": "608-661-9254",
+    "about": "Italian restaurant in Madison, WI. Price range: $$ - $$$.",
+    "cuisine": [
+      "Italian"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "https://www.nonnosristoranteitaliano.com/menus",
+    "schedule": ["Sunday 11:00 AM - 9:00 PM", "Monday Closed", "Tuesday 11:00 AM - 9:00 PM", "Wednesday 11:00 AM - 9:00 PM", "Thursday 11:00 AM - 9:00 PM", "Friday 11:00 AM - 10:00 PM", "Saturday 11:00 AM - 10:00 PM"],
+    "popular_items": ["Calamari Fritti", "Italiano"]
+  },
+  {
+    "restaurant_name": "The Jet Room",
+    "address": "3606 Corben Ct. Located Inside Wisconsin Aviation Terminal Bldg, Madison, WI 53704-2573",
+    "phone": "608-268-5010",
+    "about": "American restaurant in Madison, WI. Price range: $$ - $$$.",
+    "cuisine": [
+      "American"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "https://jetroomrestaurant.com/wp-content/uploads/2025/05/JET-ROOM-PAGE-1-2025-2.27.25.pdf",
+    "schedule": ["Sunday 7:30 AM - 2:00 PM", "Monday 7:00 AM - 2:00 PM", "Tuesday 7:00 AM - 2:00 PM", "Wednesday 7:00 AM - 2:00 PM", "Thursday 7:00 AM - 2:00 PM", "Friday 7:00 AM - 2:00 PM", "Saturday 7:00 AM - 2:00 PM"],
+    "popular_items": ["Crab Cake Benedict", "Wild Alaskan Salmon"]
+  },
+  {
+    "restaurant_name": "North and South Seafood & Smokehouse",
+    "address": "6604 Mineral Point Rd, Madison, WI 53705",
+    "phone": "608-829-0093",
+    "about": "American, Seafood restaurant in Madison, WI. Price range: $$ - $$$.",
+    "cuisine": [
+      "American",
+      "Seafood"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "https://eatnorthandsouth.com/madison-north-and-south-seafood-and-smokehouse-madison-food-menu",
+    "schedule": ["Sunday 11:00 AM - 8:00 PM", "Monday Closed", "Tuesday 11:00 AM - 9:00 PM", "Wednesday 11:00 AM - 9:00 PM", "Thursday 11:00 AM - 9:00 PM", "Friday 11:00 AM - 9:30 PM", "Saturday 11:00 AM - 9:30 PM"],
+    "popular_items": [
+      "Ribs"
+    ]
+  },
+  {
+    "restaurant_name": "Rare Steakhouse",
+    "address": "14 W. Mifflin Street, Madison, WI 53703",
+    "phone": "608-204-9000",
+    "about": "Steakhouse, Seafood restaurant in Madison, WI. Price range: $$$$.",
+    "cuisine": [
+      "Steakhouse",
+      "Seafood"
+    ],
+    "price": "$$$$",
+    "image": "",
+    "menu": "https://rare-madison.com/madison-downtown-madison-rare-steakhouse-food-menu",
+    "schedule": ["Sunday Closed", "Monday Closed", "Tuesday 4:00 PM - 9:00 PM", "Wednesday 4:00 PM - 9:00 PM", "Thursday 4:00 PM - 9:00 PM", "Friday 4:00 PM - 9:00 PM", "Saturday 4:00 PM - 9:00 PM"],
+    "popular_items": [
+      "Popovers"
+    ]
+  },
+  {
+    "restaurant_name": "La Taguara",
+    "address": "3502 East Washington Avenue, Madison, WI 53704",
+    "phone": "608-721-9100",
+    "about": "Latin, Venezuelan restaurant in Madison, WI. Price range: $$ - $$$.",
+    "cuisine": [
+      "Latin",
+      "Venezuelan"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "https://lataguara-madison.com/madison-la-taguara-la-taguara-restaurants-food-menu",
+    "schedule": ["Sunday 9:00 AM - 3:00 PM", "Monday 11:00 AM - 8:00 PM", "Tuesday 11:00 AM - 8:00 PM", "Wednesday 11:00 AM - 8:00 PM", "Thursday 11:00 AM - 8:00 PM", "Friday 11:00 AM - 9:00 PM", "Saturday 9:00 AM - 9:00 PM"],
+    "popular_items": ["Cuban Sandwich", "Arepa"]
+  },
+  {
+    "restaurant_name": "Delaney's Steak Seafood and Wine",
+    "address": "449 Grand Canyon Dr, Madison, WI 53719-1040",
+    "phone": "608-833-7337",
+    "about": "American, Steakhouse restaurant in Madison, WI. Price range: $$$$.",
+    "cuisine": [
+      "American",
+      "Steakhouse"
+    ],
+    "price": "$$$$",
+    "image": "",
+    "menu": "https://experiencedelaneys.com/menu/",
+    "schedule": ["Sunday Closed", "Monday Closed", "Tuesday 4:00 PM - 9:00 PM", "Wednesday 4:00 PM - 9:00 PM", "Thursday 4:00 PM - 9:00 PM", "Friday 4:00 PM - 9:00 PM", "Saturday 4:00 PM - 9:00 PM"],
+    "popular_items": [
+      "Crab Cakes",
+      "Caesar Salad",
+      "Pork Shank"
+    ]
+  },
+  {
+    "restaurant_name": "Bar Corallini",
+    "address": "2004 Atwood Ave, Madison, WI 53704",
+    "phone": "608-709-1316",
+    "about": "Italian, Bar restaurant in Madison, WI. Price range: $$ - $$$.",
+    "cuisine": [
+      "Italian",
+      "Bar"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "https://barcorallini.com/menus/",
+    "schedule": ["Sunday 11:00 AM - 9:00 PM", "Monday 4:00 PM - 9:00 PM", "Tuesday 4:00 PM - 9:00 PM", "Wednesday 4:00 PM - 9:00 PM", "Thursday 4:00 PM - 9:00 PM", "Friday 4:00 PM - 10:00 PM", "Saturday 11:00 AM - 10:00 PM"],
+    "popular_items": [
+      "Antipasti Board"
+    ]
+  },
+  {
+    "restaurant_name": "Original Pancake House",
+    "address": "5518 University Ave, Madison, WI 53705-1257",
+    "phone": "608-231-3666",
+    "about": "American restaurant in Madison, WI. Price range: $$ - $$$.",
+    "cuisine": [
+      "American"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "https://order.toasttab.com/online/ophmadison",
+    "schedule": ["Sunday 7:00 AM - 1:00 PM", "Monday 7:00 AM - 1:00 PM", "Tuesday Closed", "Wednesday 7:00 AM - 1:00 PM", "Thursday 7:00 AM - 1:00 PM", "Friday 7:00 AM - 1:00 PM", "Saturday 7:00 AM - 1:00 PM"],
+    "popular_items": [
+      "Dutch Baby"
+    ]
+  },
+  {
+    "restaurant_name": "Lombardino's Restaurant",
+    "address": "2500 University Ave A, Madison, WI 53705-3813",
+    "phone": "608-238-1922",
+    "about": "Italian, Pizza restaurant in Madison, WI. Price range: $$ - $$$.",
+    "cuisine": [
+      "Italian",
+      "Pizza"
+    ],
+    "price": "$$ - $$$",
+    "image": "",
+    "menu": "https://lombardinos.com/food",
+    "schedule": ["Sunday 4:30 PM - 8:30 PM", "Monday Closed", "Tuesday Closed", "Wednesday Closed", "Thursday 4:30 PM - 8:30 PM", "Friday 4:30 PM - 8:30 PM", "Saturday 4:30 PM - 8:30 PM"],
+    "popular_items": [
+      "Eggplant",
+      "Pizza"
+    ]
+  }
+]
